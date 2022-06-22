@@ -1,5 +1,8 @@
 # ListaDeExercicios002
 
+Repositório de resolução da lista de exercícios 002.
+
+LISTA DE EXERCÍCIOS 002 
 
 1 - Faça um programa que mostre a mensagem "Alô mundo" na tela.
 2 - Faça um programa que receba 4 notas bimestrais e mostre a média aritmética.
